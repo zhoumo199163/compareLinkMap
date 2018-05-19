@@ -7,3 +7,5 @@
 ### 1.合并库：展示framework整体大小  
 ### 2.排序：可选择排序字段，默认为按照比较结果排序  
 ### 3.导出结果：选择一个文件夹，生成结果txt  
+
+![](https://github.com/zhoumo199163/compareLinkMap/blob/master/screenshot1.jpg)
